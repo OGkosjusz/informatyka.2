@@ -2,11 +2,11 @@
 using namespace std;
 
 int main() {
-    int n;
+    int m;
     cout << "Podaj liczbe N: ";
-    cin >> n;
-    for (int i = 1; i <= n; i++) {
-        for (int j = 1; j <= n; j++) {
+    cin >> m;
+    for (int i = 1; i <= m; i++) {
+        for (int j = 1; j <= m; j++) {
             cout << i << " * " << j << " = " << i * j << endl;
         }
         cout << endl;
