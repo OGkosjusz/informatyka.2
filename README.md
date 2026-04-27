@@ -1,7 +1,7 @@
 # informatyka.2
-# Repozytorium z lekcji Informatyki Klas 2
-Zadania z lekcji informatyki ✌
-Do tego momentu opanowałem tematy:
+## Repozytorium z lekcji Informatyki Klas 2
+### Zadania z lekcji informatyki ✌
+### Do tego momentu opanowałem tematy:
 - Pierwszy program w C++
 - Instrukcja warunkowa IF
 - Instrukcja switch
